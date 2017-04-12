@@ -2,5 +2,5 @@ Kuchen:
 
 Eier
 Mehl
-Milch
+Milch(0,5l)
 Zucker(10g)
