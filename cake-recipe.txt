@@ -3,4 +3,4 @@ Kuchen:
 Eier
 Mehl(100g)
 Milch(0,5l)
-Zucker
+Zucker(10g)
