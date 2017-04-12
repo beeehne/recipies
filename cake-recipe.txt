@@ -3,4 +3,4 @@ Kuchen:
 Eier
 Mehl
 Milch
-Zucker
+Zucker(10g)
